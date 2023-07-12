@@ -1,6 +1,6 @@
 # VSP2023
-All my work as a VSP at Raman Research Institute, summer 2023.
 
+VSP at Raman Research Institute, summer 2023.
 
 - Worked on two majors projects in the span, the SKA-LOW (150-350MHz) range Log Periodic Dipole Antenna (LPDA) interferometry array, and the Analog + Digital backend for a RedPitaya module for conducting wideband Horn observations for 21cm Galactic Hydrogen emissions.
 
