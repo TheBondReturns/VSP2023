@@ -12,5 +12,5 @@ VSP at Raman Research Institute, summer 2023.
 *Working on developing a GUI for the same
 
 - RedPitaya:
-- a. Front-End design of a Superheterodyne Receiver chain with baseband range 0-50MHz (limited by RedPitaya's 125Msps sampling rate)
-- b. Configuring Redpitaya's Hardware and enforcing Data reduction techniques within the ZYNQ FPGA to adhere to digital Baud rate enable lossless streaming into           a remote computer.
+  - a. Front-End design of a Superheterodyne Receiver chain with baseband range 0-50MHz (limited by RedPitaya's 125Msps sampling rate)
+  - b. Configuring Redpitaya's Hardware and enforcing Data reduction techniques within the ZYNQ FPGA to adhere to digital Baud rate enable lossless streaming into           a remote computer.
