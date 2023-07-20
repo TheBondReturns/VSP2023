@@ -1,0 +1,19 @@
+1. SSH into RedPitaya
+
+2. cd to ~/streaming
+
+3. execute the following command to send 1024 kilobytes of data via TCP:   (execute ./rp_remote_acquire for more details)
+ 
+ ./rp_remote_acquire -m 2 -a 172.16.101.79 -p 8900 -k 1024 -d 1 -r 
+ 
+ (-m 2 implies redpitaya acts in server mode where it sends the sampled data to a TCP socket, from which we can run a python code to extract the samples. No samples lost in this way)
+ 
+ subsequently run the python code stream_TCP via terminal in our Desktop:
+
+ python3 stream_TCP.py
+ 
+
+
+
+
+
