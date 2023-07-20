@@ -34,9 +34,15 @@ The python program for acquiring in client mode is linked here.
 → -d sets the decimation value, -a the IP address of the server and -p the port number for TCP, same as that given at the server.
 
 
-The source codes by the author are present in this GitHub repository and the executable files & ecosystem are present in this dropbox. 
+The source codes by the author are present in the GitHub repository and the executable files & ecosystem are present in the dropbox below. 
 
-Further details about the functioning of the program are mentioned in this particular Redpitaya forum page
+source: https://github.com/HrRossi/RedPitaya/tree/dev_ddrdump/Test/rp_remote_acquire
+dropbox: https://www.dropbox.com/sh/m693j4shppdusug/AADcJoXlwaf_ejIl5r1Ez7IYa?dl=0
+
+
+Further details about the functioning of the program are mentioned in this particular Redpitaya forum page: 
+
+forum page: https://forum.redpitaya.com/viewtopic.php?f=7&t=317
 
 
 
